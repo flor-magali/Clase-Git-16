@@ -3,3 +3,5 @@ def suma(a,b):
 
 def resta(a,b):
     return a-b
+def persona():
+    pass
